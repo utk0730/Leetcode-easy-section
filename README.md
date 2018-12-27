@@ -1,5 +1,5 @@
 # Leetcode-easy-section
-Leetcode problems' solution using javascript 
+Leetcode problems' solution in javascript 
 
 this repo has solutions of leetcode easy section problems(not all problems).
 the solutions are written in JavaScript.
